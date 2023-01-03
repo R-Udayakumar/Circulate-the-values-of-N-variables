@@ -11,9 +11,7 @@ Anaconda - Python 3.7
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
-### Step 5: 
-### Step 6: 
+ 
 ## Program:
 ```
 #Program to circulate N values.
